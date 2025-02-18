@@ -40,7 +40,7 @@ Como executar o projeto?
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/amigo-secreto.git
+git clone https://github.com/lhenriqueA23/Desafio_amigo_secreto.git
 
 vá até o diretório do projeto:
 
