@@ -69,4 +69,4 @@ function sortearAmigo() {
     novoResultado.classList.add('aparecer'); // Cria uma classe Css
     
     elementoResultado.appendChild(novoResultado);
-}
+}   
